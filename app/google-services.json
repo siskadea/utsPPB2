@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611374649073",
+    "project_id": "utsku-21e29",
+    "storage_bucket": "utsku-21e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611374649073:android:3eefc97f47ae72ac806350",
+        "android_client_info": {
+          "package_name": "com.siskadea.utsku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611374649073-uj5k1dkrks3661ojdbpvosof9ap0mpn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQadcTgbOKrF0uMXK9oItUd7vq4GD1HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611374649073-uj5k1dkrks3661ojdbpvosof9ap0mpn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
